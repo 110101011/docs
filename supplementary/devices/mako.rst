@@ -10,7 +10,18 @@ Status
 Halium
 ^^^^^^
 
-No work so far.
+Halium version 7.1
+
+- Kernel @ 110101011/lge-kernel-mako <https://github.com/110101011/lge-kernel-mako>
+- Device tree @ 110101011/android_device_lge_mako <https://github.com/110101011/android_device_lge_mako>
+
+Halium reference rootfs boot up till Google bootlogo, ssh server starts.
+
+- test_vibrate (works)
+- test_lights (works)
+- test_gps (seems to work)
+
+
 
 Distributions
 ^^^^^^^^^^^^^
